@@ -30,7 +30,7 @@ contract:
 Asega:
 An asega (legal interpreter or law-speaker) was, in the Middle Ages, an official legal advisor to the court of law in the Westerlauwers district (i.e. west of the River Lauwers) in western Friesland. Unlike a modern judge, the asega gave in most cases only an expert opinion on the law itself rather than on the facts of the case.
 
-[Asega](https://en.wikipedia.org/w/index.php?title=Asega&oldid=834244978 this version)
+[Asega](https://en.wikipedia.org/w/index.php?title=Asega&oldid=834244978)
 
 
 ## Setup
